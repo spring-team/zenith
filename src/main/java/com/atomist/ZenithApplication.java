@@ -1,3 +1,5 @@
+// You're good enough, you're smart enough, and doggone it, people like you.
+
 // Life is its own reason for being. It is beautiful to have a sense of beauty.
 
 /*
